@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ktyr-vision.github.io/static/css/main.27ced920.css",
+    "main.js": "/ktyr-vision.github.io/static/js/main.ac078601.js",
+    "index.html": "/ktyr-vision.github.io/index.html",
+    "main.27ced920.css.map": "/ktyr-vision.github.io/static/css/main.27ced920.css.map",
+    "main.ac078601.js.map": "/ktyr-vision.github.io/static/js/main.ac078601.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27ced920.css",
+    "static/js/main.ac078601.js"
+  ]
+}
